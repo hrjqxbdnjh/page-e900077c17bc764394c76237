@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "8b29b96bb4340d8d65728776",
+  "owner": "hrjqxbdnjh",
+  "repo": "page-e900077c17bc764394c76237",
+  "title": "Connecting",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e900077c17bc764394c76237",
+      "a": "Connecting",
+      "b": "稳定全球clash加速器",
+      "entity": "Connecting",
+      "brand": "Connecting",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "d2952d36088ad81c4919baa303cb06c04b8bf0015a767fecdc88866563a5d48e",
+      "content": {
+        "primary_entity": "Connecting",
+        "keyword1": "Connecting",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，Connecting 面向需要稳定跨境网络的用户，提供多种订阅套餐与客户端选择。基础版适合轻度使用，旗舰版和团队版覆盖多设备与高流量场景。搭配 Clash 客户端，可按平台文档完成订阅导入，并根据设备数量与流量需求挑选合适周期。",
+          "AI_HERO_SUBTITLE": "选择套餐，连接全球网络。",
+          "AI_HERO_INTRO": "Connecting 提供多档海外加速订阅，覆盖基础浏览、流媒体解锁和游戏专线。用户可根据设备数量与月流量选择套餐，再依据客户端文档完成配置。",
+          "AI_VISUAL_TITLE": "Connecting 全球加速订阅",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 到 20 台设备",
+          "AI_HIGHLIGHT_2": "月流量从 100GB 到 1000GB",
+          "AI_HIGHLIGHT_3": "支持 Clash 订阅导入与配置",
+          "AI_FEATURES_TITLE": "套餐与设备适配要点",
+          "AI_FEATURES_INTRO": "根据日常设备数量与流量消耗选择版本，能减少后期更换套餐的麻烦。",
+          "AI_FEATURE_TITLE_1": "按设备数选版本",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，多设备用户宜直接考虑后两档。",
+          "AI_FEATURE_TITLE_2": "按流量判断档位",
+          "AI_FEATURE_TEXT_2": "每月 100GB 适合轻度浏览，300GB 兼顾流媒体与游戏，1000GB 面向高带宽团队场景。",
+          "AI_FEATURE_TITLE_3": "按周期决定付费",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省。基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850。",
+          "AI_CLIENTS_TITLE": "选择合适客户端",
+          "AI_CLIENTS_INTRO": "不同设备可选用对应客户端，并按文档导入订阅链接完成配置。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "从基础版到团队版，流量、设备数与专线权益逐级提升，可按实际需求对比选择。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到客户端使用的准备流程。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据设备数量与每月所需流量，在基础版、旗舰版与团队版中选定合适版本。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端版本，核对套餐支持的设备数量与线路类型。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "按照所选客户端的使用文档导入订阅链接，再根据节点列表选择线路使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐，稳定连接",
+          "AI_CLOSING_TEXT": "根据设备与流量需求选定版本，再按客户端文档完成订阅配置。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "套餐可以中途更换吗？",
+          "AI_FAQ_ANSWER_1": "可以在续费节点根据使用情况调整套餐档位，按流量和设备数重新匹配即可。",
+          "AI_FAQ_QUESTION_2": "一台设备可以同时登录多个账号吗？",
+          "AI_FAQ_ANSWER_2": "同一设备通常使用一个订阅连接，多账号需求建议直接选择支持更多在线设备的套餐。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "年付只是计费周期更长，基础版年付 ¥150、旗舰版 ¥350、团队版 ¥850，换算后单月成本更低。",
+          "AI_FAQ_QUESTION_4": "如何知道该装哪个客户端？",
+          "AI_FAQ_ANSWER_4": "先确认设备是手机、电脑还是路由器，再按客户端说明选择对应系统的版本安装。",
+          "AI_FAQ_QUESTION_5": "订阅导入失败怎么办？",
+          "AI_FAQ_ANSWER_5": "检查订阅链接是否完整复制，并确认客户端版本是否支持当前配置格式，必要时更换客户端重试。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "mpe33v9.cn",
+    "host": "mpe33v9.cn"
+  },
+  "file_hashes": {
+    "index.html": "7d4b325c255579c784ce010a659c2bf8fa64f470d6679ab592a2afd8abce6914",
+    "sitemap.xml": "d980f767b967d12fd7d0af4131d45580f4343175229e261d63ab509388f4cb2d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "2f6e633302868ca29a1ea898096e0dea87474d9e095d45b437b8b56618dee371",
+    "robots.txt": "b6e45b196fc382af4f44b0204417c49f3a8a8c893152483ddb37c23d7c15497f",
+    "5bc0d7ae964bcbc01f7187013064e8ad.txt": "2c099ddb51ca24996cf0308ecf794f20e4cd621acd9383af6b2cd6ce8d619c13"
+  },
+  "revision": "cd2a734f6ea311842d707dcbb7a84ec064bf61bafd83aec9610804483ce96cb5"
+}
